@@ -1,8 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "notebook.formatOnSave.enabled": true,
-  "[python]": {
-    "editor.defaultFormatter": "charliermarsh.ruff"
-  }
-  // "clangd.fallbackFlags": ["-std=c++20"]
-}
